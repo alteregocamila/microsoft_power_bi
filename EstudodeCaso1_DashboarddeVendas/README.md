@@ -2,4 +2,4 @@
 
 ## Dashboard de Vendas
 
-![Imagem dashboard de vendas](/EstudodeCaso1_DashboarddeVendas.PNG 'Dashboard de Vendas')
+![Imagem dashboard de vendas](./EstudodeCaso1_DashboarddeVendas.PNG 'Dashboard de Vendas')
