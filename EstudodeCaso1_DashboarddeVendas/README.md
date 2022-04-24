@@ -1,4 +1,6 @@
-# Estudo de Caso 1
+# Case 1
+
+First case of the Data Science Academy's [Microsoft Power BI Para Data Science](https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-data-science).
 
 ## Dashboard de Vendas
 
