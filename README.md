@@ -25,10 +25,10 @@ These are some of the Cases carried out at nanodegrees on Power BI.
   </tr>
     <tr>
     <td> 
-      <a  href='https://github.com/alteregocamila/microsoft_power_bi/tree/main/EstudodeCaso1_DashboarddeVendas'>Dashboard de Vendas, Custo, Margem de Lucro e KPI</a>
+      <a  href='https://github.com/alteregocamila/microsoft_power_bi/tree/main/DashboarddeVendasCustoMargemdeLucroeKPI'>Dashboard de Vendas, Custo, Margem de Lucro e KPI</a>
     </td>
     <td> 
-      <a  href='https://github.com/alteregocamila/microsoft_power_bi/tree/main/EstudodeCaso2_Estrat%C3%A9giasdeVendas'>Dashboard Analítico - Evolução e Previsão do Desemprego</a>
+      <a  href='https://github.com/alteregocamila/microsoft_power_bi/tree/main/EstudodeCaso3-Evolu%C3%A7%C3%A3oePrevis%C3%A3odoDesemprego'>Dashboard Analítico - Evolução e Previsão do Desemprego</a>
     </td>
   </tr>
   <tr>
@@ -36,12 +36,12 @@ These are some of the Cases carried out at nanodegrees on Power BI.
   <tr>
   <td>
 
-[<img src="https://github.com/alteregocamila/microsoft_power_bi/blob/main/EstudodeCaso1_DashboarddeVendas/EstudodeCaso1_DashboarddeVendas.PNG" width="360"/>](DashboarddeVendas,Custo,MargemdeLucroeKPI.PNG)
+[<img src="https://github.com/alteregocamila/microsoft_power_bi/blob/main/DashboarddeVendasCustoMargemdeLucroeKPI/DashboarddeVendas%2CCusto%2CMargemdeLucroeKPI.PNG" width="360"/>](DashboarddeVendas,Custo,MargemdeLucroeKPI.PNG)
 
   </td>
   <td>
 
-[<img src="https://github.com/alteregocamila/microsoft_power_bi/blob/main/EstudodeCaso2_Estrat%C3%A9giasdeVendas/EstudodeCaso2_Estrat%C3%A9giasdeVendas.PNG" width="360"/>](DashboardAnalitico-EvoluçãoePrevisãodoDesemprego.PNG)
+[<img src="https://github.com/alteregocamila/microsoft_power_bi/blob/main/EstudodeCaso3-Evolu%C3%A7%C3%A3oePrevis%C3%A3odoDesemprego/DashboardAnalitico-Evolu%C3%A7%C3%A3oePrevis%C3%A3odoDesemprego.PNG" width="360"/>](DashboardAnalitico-EvoluçãoePrevisãodoDesemprego.PNG)
 
   </td>
   </tr>
