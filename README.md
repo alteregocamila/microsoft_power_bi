@@ -47,10 +47,10 @@ These are some of the Cases carried out at nanodegrees on Power BI.
   </tr>
   <tr>
     <td> 
-      <a  href='https://github.com/alteregocamila/microsoft_power_bi/tree/main/DashboarddeVendasCustoMargemdeLucroeKPI'>Dashboard de Saldo de Clientes com Geolocalização e Gráfico Customizado</a>
+      <a  href='https://github.com/alteregocamila/microsoft_power_bi/tree/main/DashboarddeSaldodeClientescomGeolocaliza%C3%A7%C3%A3oeGr%C3%A1ficoCustomizado'>Dashboard de Saldo de Clientes com Geolocalização e Gráfico Customizado</a>
     </td>
     <td> 
-      <a  href='https://github.com/alteregocamila/microsoft_power_bi/tree/main/EstudodeCaso3-Evolu%C3%A7%C3%A3oePrevis%C3%A3odoDesemprego'>Análise de Gastos de Operadoras de Planos de Saúde</a>
+      <a  href='https://github.com/alteregocamila/microsoft_power_bi/tree/main/An%C3%A1lisedeGastosdeOperadorasdePlanosdeSa%C3%BAde'>Análise de Gastos de Operadoras de Planos de Saúde</a>
     </td>
   </tr>
   <tr>
@@ -58,12 +58,12 @@ These are some of the Cases carried out at nanodegrees on Power BI.
   <tr>
   <td>
 
-[<img src="" width="360"/>](DashboarddeSaldodeClientescomGeolocalizaçãoeGráficoCustomizado.PNG)
+[<img src="https://github.com/alteregocamila/microsoft_power_bi/blob/main/DashboarddeSaldodeClientescomGeolocaliza%C3%A7%C3%A3oeGr%C3%A1ficoCustomizado/DashboarddeSaldodeClientescomGeolocaliza%C3%A7%C3%A3oeGr%C3%A1ficoCustomizado.PNG" width="360"/>](DashboarddeSaldodeClientescomGeolocalizaçãoeGráficoCustomizado.PNG)
 
   </td>
   <td>
 
-[<img src="" width="360"/>](AnálisedeGastosdeOperadorasdePlanosdeSaúde.PNG)
+[<img src="https://github.com/alteregocamila/microsoft_power_bi/blob/main/An%C3%A1lisedeGastosdeOperadorasdePlanosdeSa%C3%BAde/An%C3%A1lisedeGastosdeOperadorasdePlanosdeSa%C3%BAde.PNG" width="360"/>](AnálisedeGastosdeOperadorasdePlanosdeSaúde.PNG)
 
   </td>
   </tr>
