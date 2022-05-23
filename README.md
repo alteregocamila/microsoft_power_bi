@@ -1,6 +1,6 @@
 # microsoft_power_bi
 
-These are some of the Cases carried out at nanodegrees on Power BI.
+These are some of the Cases carried out at a nanodegree on Power BI.
 
 <table border="0" cellspacing="0" rules="none">
   <tr>
@@ -28,7 +28,7 @@ These are some of the Cases carried out at nanodegrees on Power BI.
       <a  href='https://github.com/alteregocamila/microsoft_power_bi/tree/main/DashboarddeVendasCustoMargemdeLucroeKPI'>Dashboard de Vendas, Custo, Margem de Lucro e KPI</a>
     </td>
     <td> 
-      <a  href='https://github.com/alteregocamila/microsoft_power_bi/tree/main/EstudodeCaso3-Evolu%C3%A7%C3%A3oePrevis%C3%A3odoDesemprego'>Dashboard Analítico - Evolução e Previsão do Desemprego</a>
+      <a  href='https://github.com/alteregocamila/microsoft_power_bi/tree/main/EstudodeCaso3-Evolu%C3%A7%C3%A3oePrevis%C3%A3odoDesemprego'>Dashboard Analítico - Evolução e Previsão do<br>Desemprego</a>
     </td>
   </tr>
   <tr>
@@ -47,7 +47,7 @@ These are some of the Cases carried out at nanodegrees on Power BI.
   </tr>
   <tr>
     <td> 
-      <a  href='https://github.com/alteregocamila/microsoft_power_bi/tree/main/DashboarddeSaldodeClientescomGeolocaliza%C3%A7%C3%A3oeGr%C3%A1ficoCustomizado'>Dashboard de Saldo de Clientes com Geolocalização e Gráfico Customizado</a>
+      <a  href='https://github.com/alteregocamila/microsoft_power_bi/tree/main/DashboarddeSaldodeClientescomGeolocaliza%C3%A7%C3%A3oeGr%C3%A1ficoCustomizado'>Dashboard de Saldo de Clientes com Geolocalização<br>e Gráfico Customizado</a>
     </td>
     <td> 
       <a  href='https://github.com/alteregocamila/microsoft_power_bi/tree/main/An%C3%A1lisedeGastosdeOperadorasdePlanosdeSa%C3%BAde'>Análise de Gastos de Operadoras de Planos de Saúde</a>
@@ -69,7 +69,7 @@ These are some of the Cases carried out at nanodegrees on Power BI.
   </tr>
  <tr>
     <td> 
-      <a  href='https://github.com/alteregocamila/microsoft_power_bi/tree/main/An%C3%A1lise_de_Dados_de_E-Commerce_com_Power_BI_e_Google_Analytics'>E-Commerce Data Analysis with Power BI and Google Analytics</a>
+      <a  href='https://github.com/alteregocamila/microsoft_power_bi/tree/main/An%C3%A1lise_de_Dados_de_E-Commerce_com_Power_BI_e_Google_Analytics'>E-Commerce Data Analysis with Power BI and Google<br>Analytics</a>
     </td>
     <td> 
       <a  href='https://github.com/alteregocamila/microsoft_power_bi/tree/main/Lab3_DashboardParaSmartphone'>Dashboard de Vendas para Smartphone</a>
