@@ -2,7 +2,7 @@
 
 These are some of the Cases carried out at nanodegrees on Power BI.
 
-<table>
+<table border="0" cellspacing="0" rules="none">
   <tr>
     <td> 
       <a  href='https://github.com/alteregocamila/microsoft_power_bi/tree/main/EstudodeCaso1_DashboarddeVendas'>Dashboard de Vendas</a>
@@ -64,6 +64,28 @@ These are some of the Cases carried out at nanodegrees on Power BI.
   <td>
 
 [<img src="https://github.com/alteregocamila/microsoft_power_bi/blob/main/An%C3%A1lisedeGastosdeOperadorasdePlanosdeSa%C3%BAde/An%C3%A1lisedeGastosdeOperadorasdePlanosdeSa%C3%BAde.PNG" width="360"/>](AnálisedeGastosdeOperadorasdePlanosdeSaúde.PNG)
+
+  </td>
+  </tr>
+ <tr>
+    <td> 
+      <a  href='xxxx'>E-Commerce Data Analysis with Power BI and Google Analytics</a>
+    </td>
+    <td> 
+      <a  href='xxxx'>Dashboard de Vendas para Smartphone</a>
+    </td>
+  </tr>
+  <tr>
+
+  <tr>
+  <td>
+
+[<img src="xxxx" width="360"/>](Análise_de_Dados_de_E-Commerce_com_Power_BI_e_Google_Analytics.PNG)
+
+  </td>
+  <td>
+
+[<img src="xxxxx" width="360"/>](Lab3_DashboardParaSmartphone.PNG)
 
   </td>
   </tr>
