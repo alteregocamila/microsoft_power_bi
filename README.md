@@ -94,10 +94,10 @@ These are some of the Cases carried out at a nanodegree on Power BI.
   </tr>
  <tr>
     <td> 
-      <a  href='https://github.com/alteregocamila/microsoft_power_bi/tree/main/An%C3%A1lise_de_Dados_de_E-Commerce_com_Power_BI_e_Google_Analytics'>Data Visualization from Relational Database</a>
+      <a  href='https://github.com/alteregocamila/microsoft_power_bi/tree/main/Dashboard_de_Vendas-PostgreSQL'>Data Visualization from Relational Database</a>
     </td>
     <td> 
-      <a  href='https://github.com/alteregocamila/microsoft_power_bi/tree/main/Lab3_DashboardParaSmartphone'>Dashboard de Análise Estatística
+      <a  href='https://github.com/alteregocamila/microsoft_power_bi/tree/main/Dashboard-Analise-Estatistica'>Dashboard de Análise Estatística
 </a>
     </td>
   </tr>
@@ -106,12 +106,12 @@ These are some of the Cases carried out at a nanodegree on Power BI.
   <tr>
   <td>
 
-[<img src="" width="360"/>](Dashboard-de-Vendas-PostgreSQL.PNG)
+[<img src="https://github.com/alteregocamila/microsoft_power_bi/blob/main/Dashboard_de_Vendas-PostgreSQL/Dashboard-de-Vendas-PostgreSQL.PNG" width="360"/>](Dashboard-de-Vendas-PostgreSQL.PNG)
 
   </td>
   <td>
 
-[<img src="" width="360"/>](Dashboard-Analise-Estatistica.PNG)
+[<img src="https://github.com/alteregocamila/microsoft_power_bi/blob/main/Dashboard-Analise-Estatistica/Dashboard-Analise-Estatistica.PNG" width="360"/>](Dashboard-Analise-Estatistica.PNG)
 
   </td>
   </tr>
