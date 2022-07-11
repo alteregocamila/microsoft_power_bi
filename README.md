@@ -89,4 +89,30 @@ These are some of the Cases carried out at nanodegrees on Power BI.
 
   </td>
   </tr>
+
+  </td>
+  </tr>
+ <tr>
+    <td> 
+      <a  href='https://github.com/alteregocamila/microsoft_power_bi/tree/main/An%C3%A1lise_de_Dados_de_E-Commerce_com_Power_BI_e_Google_Analytics'>Data Visualization from Relational Database</a>
+    </td>
+    <td> 
+      <a  href='https://github.com/alteregocamila/microsoft_power_bi/tree/main/Lab3_DashboardParaSmartphone'>Dashboard de Análise Estatística
+</a>
+    </td>
+  </tr>
+  <tr>
+
+  <tr>
+  <td>
+
+[<img src="" width="360"/>](Dashboard-de-Vendas-PostgreSQL.PNG)
+
+  </td>
+  <td>
+
+[<img src="" width="360"/>](Dashboard-Analise-Estatistica.PNG)
+
+  </td>
+  </tr>
 </table>
